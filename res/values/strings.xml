@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CCDProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="auth_demo">Auth Demo</string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="title_activity_logged_in">LoggedInActivity</string>
+    <string name="youre_in">You\'re in!</string>
+    <string name="title_activity_custom_login">CustomLoginActivity</string>
+    <string name="Welcome">Welcome</string>
+    <string name="username">Username:</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="register_for_account">Register for Account</string>
+    <string name="title_activity_register_account">RegisterAccountActivity</string>
+    <string name="register">Register</string>
+    <string name="confirm">Confirm:</string>
+    <string name="email">Email:</string>
+    <string name="user_id">User ID:</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_leave_message">LeaveMessageActivity</string>
+    <string name="title_activity_read_message">ReadMessageActivity</string>
+
+</resources>
